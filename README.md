@@ -3,7 +3,6 @@
 <!--
 **jonheslop/jonheslop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on modernising [dashboard.pusher.com], it’s a Ruby on Rails app. I’m using building out resuable components with [view_component], it’s great. 
 - 🌱 I’m currently learning lots about Ruby on Rails, I’ve never used it before Pusher.
