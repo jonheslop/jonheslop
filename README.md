@@ -10,7 +10,7 @@
 - 💬 Ask me about… anything!
 - 📫 How to reach me: my contact details to the left/below
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like trying out new GitHub features!
+- ⚡ Fun fact: We’re renovating a house right now and just got an allotment
 
 [view_component]:https://github.com/github/view_component
 [dashboard.pusher.com]:https://dashboard.pusher.com
